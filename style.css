@@ -8,10 +8,7 @@ a {
     text-decoration: none;
     color: inherit;
 }
-p {
-    font-size:1.1em;
-    margin-bottom: 2em;
-}
+
 body {
     width: 100%;
     min-width: 300px;
@@ -77,6 +74,8 @@ ul {
 }
 
 p{
+    font-size:1.1em;
+    margin-bottom: 2em;
     width: 100%;
     margin-top: .5em;
     margin-left: 2em;
